@@ -11,7 +11,6 @@ const Tooltip = ({ position, children }) => {
   const handleMouseLeave = () => {
     setShowTooltip(false);
   };
-  console.log("position", position);
   return (
     <div
       className="tooltip-container"

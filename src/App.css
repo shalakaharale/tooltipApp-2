@@ -1,3 +1,11 @@
+.dropdown {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 5vh;
+}
+
 .App {
   display: flex;
   align-items: center;
